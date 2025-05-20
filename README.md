@@ -60,6 +60,15 @@ Neste mesmo ano tiro minha segunda ceritificação DevOps Professional e também
 
 # Projetos
 
+## TGEnv
+
+Para lidar com multiplas versões do Terragrunt usadas no ambiente durante o crescimento do IaC surgiu a ferramenta do TGEnv, inicialmente criada e mantida por outra pessoa da comunidade, porém ela deixou de ser mantida e não recebe mais atualizações.
+
+Para não ficar orfão e continuar mantendo a ferramenta postei na comunidade na época se haviam interessados em continuar mantendo ela através de um _fork_ no GitHub. Logo apareceram novos interessados e hoje mantenho ela junto com outros membros da comunidade.
+
+- **Repositórios**: [GitHub](https://github.com/tgenv/tgenv)
+- **Tecnologias**: [Shell](https://pt.wikipedia.org/wiki/Shell_script)
+
 ## Forger
 
 Em minha jornada de estudos com [Fast API](https://fastapi.tiangolo.com) e [SQL Model](https://sqlmodel.tiangolo.com), tive a necessidade de ter dados _fakes_ mocados, porém nem semre é fácil encontrar um dicionário exatamente no modelo que você precisa, diante disto resolvi criar o Forger uma solução que gera uma massa de dados para você.
