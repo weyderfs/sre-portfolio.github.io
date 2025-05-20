@@ -60,6 +60,13 @@ Neste mesmo ano tiro minha segunda ceritificação DevOps Professional e também
 
 # Projetos
 
+## Forger
+
+Em minha jornada de estudos com [Fast API](https://fastapi.tiangolo.com) e [SQL Model](https://sqlmodel.tiangolo.com), tive a necessidade de ter dados _fakes_ mocados, porém nem semre é fácil encontrar um dicionário exatamente no modelo que você precisa, diante disto resolvi criar o Forger uma solução que gera uma massa de dados para você.
+
+- **Repositório**: [GitHub](https://github.com/Ops-Talks/forger)
+- **Tecnologias**: [Python](https://python.org), [Typer](https://typer.tiangolo.com), [Poetry](https://python-poetry.org) e [Faker](https://faker.readthedocs.io/en/stable)
+
 ## Desenvolvedor de Módulos Terraform/OpenTofu
 
 Com as habilidades que fui adquirindo trabalhando com IaC, senti uma forte necessidade de padronização e criação de módulos para usar no dia a dia de trabalho e como acredito na força do Sofware Open Source também disponibilizo para comunidade meus módulos:
