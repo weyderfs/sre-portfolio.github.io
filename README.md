@@ -60,6 +60,24 @@ In the same year, I obtained my second DevOps Professional certification and als
 
 # Projects
 
+## Forger
+
+During my studies with [Fast API](https://fastapi.tiangolo.com) and [SQL Model](https://sqlmodel.tiangolo.com), I needed to have mocked fake data. However, it's not always easy to find a dictionary exactly in the model you need. Given this, I decided to create Forger, a solution that generates a mass of data for you.
+
+- **Repository**: [GitHub](https://github.com/Ops-Talks/forger)
+- **Technologies**: [Python](https://python.org), [Typer](https://typer.tiangolo.com), [Poetry](https://python-poetry.org), and [Faker](https://faker.readthedocs.io/en/stable)
+
+
+## TGEnv
+
+To handle multiple versions of Terragrunt used in the environment during the growth of IaC, the TGEnv tool emerged. It was initially created and maintained by another person in the community, but it eventually ceased to be maintained and no longer receives updates.
+
+To prevent it from becoming orphaned and to continue its maintenance, I posted in the community at the time to see if there was interest in continuing to maintain it through a GitHub fork. New interested parties soon appeared, and today I maintain it along with other community members.
+
+- **Repositories**: [GitHub](https://github.com/Ops-Talks/forger)
+- **Technologies**: [Shell](https://pt.wikipedia.org/wiki/Shell_script)
+
+
 ## Terraform/OpenTofu Modules Developer
 
 With the skills I acquired working with IaC, I felt a strong need for standardization and module creation for daily work. And since I believe in the power of Open Source Software, I also make my modules available to the community:
